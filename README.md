@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @Herodesjosue i'm developer frontend
+#  👋 Hi, I’m @Herodesjosue developer frontend
 ### 🖥️ My skills are: 
 * React 
 * JavaScript 
