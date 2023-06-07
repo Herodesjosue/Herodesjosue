@@ -1,4 +1,4 @@
-#  👋 Hi, I’m @Herodesjosue developer frontend
+#  👋 Hi, I’m @Herodesjosue Web Developer
 ### 🖥️ My skills are: 
 * React 
 * JavaScript 
@@ -9,6 +9,7 @@
 * BootStrap
 * Express
 * Sql Server
+* Mysql Server
 ### 💻 You can know more about me --> [Here :D](https://herodeslugo.netlify.app/)
 ###  📫 How to reach me herodeslugo@gmail.com
 
