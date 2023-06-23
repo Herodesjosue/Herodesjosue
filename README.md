@@ -10,7 +10,7 @@
 * Express
 * Sql Server
 * Mysql Server
-### 💻 You can know more about me --> [Here :D](https://herodeslugo.netlify.app/)
+### 💻 You can know more about me --> [Here :D](https://herodes-josue-about-me-3kjh.vercel.app/)
 ###  📫 How to reach me herodeslugo@gmail.com
 
 
