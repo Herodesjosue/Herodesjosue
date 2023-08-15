@@ -6,9 +6,7 @@
 * Supabase 
 * NextJs
 * BootStrap
-* Express
-* Sql Server
-* Mysql Server
+* Tailwind CSS
 ### 💻 You can know more about me --> [Here :D](https://herodes-josue-about-me-3kjh.vercel.app/)
 ###  📫 How to reach me herodeslugo@gmail.com
 
