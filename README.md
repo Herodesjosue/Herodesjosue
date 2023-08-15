@@ -5,7 +5,6 @@
 * Git
 * Supabase 
 * NextJs
-* Python
 * BootStrap
 * Express
 * Sql Server
