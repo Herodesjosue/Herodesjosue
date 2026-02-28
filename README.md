@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer | JavaScript Ecosystem & Creative Coding
+# 🚀 Full Stack Developer
 
 Full Stack Developer focused on building scalable architectures and high-performance digital products. I specialize in the modern JavaScript ecosystem, combining robust backend logic with immersive, interactive frontend experiences.
 
